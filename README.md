@@ -325,3 +325,4 @@ instance and so on.
 ### Services using node-xmpp-bosh
 
 You can find a list [here](https://github.com/dhruvbird/node-xmpp-bosh/wiki/Services-using-node-xmpp-bosh)
+![CodeshipStatus](https://www.codeship.io/projects/583b4f20-3498-0131-df97-12f8507023e4/status)
